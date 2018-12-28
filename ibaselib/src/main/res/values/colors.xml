@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="White">#ffffff</color>
+    <color name="Red">#f44343</color>
+    <color name="Yellow">#f7ce00</color>
+    <color name="Blue">#0026fd</color>
+    <color name="Green">#39fc03</color>
+    <color name="Grey">#b4b4b4</color>
+    <color name="Black">#000000</color>
+    <color name="translate">#00ffffff</color>
+
+
+    <color name="Bg_Rv">#e4e2e2</color>
+
+    <color name="half_red">#8ef44343</color>
+    <color name="half_black">#81000000</color>
+
+
+    <color name="main_fragment_status">#77ffffff</color>
+
+</resources>
