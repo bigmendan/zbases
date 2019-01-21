@@ -34,7 +34,6 @@ public class LoadRecyclerView extends RecyclerView {
 
     // 底部加载更多的 itemType
     //设置一个很大的数字,尽可能避免和用户的adapter冲突
-
     private static final int TYPE_FOOTER = 10001;
 
     private View mFootView; //尾部局
